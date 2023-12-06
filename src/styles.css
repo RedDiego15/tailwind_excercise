@@ -11,7 +11,8 @@
 
 @layer components {
   .btn {
-    @apply active:bg-gray-500
+    @apply 
+      active:bg-gray-500
       hover:bg-gray-500
       hover:text-white cursor-pointer
       border-gray-500
